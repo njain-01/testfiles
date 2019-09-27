@@ -1,0 +1,8 @@
+Process: kthreadd
+PID NUMBER: 2
+Process state: 1
+Priority: 120
+RT_Priority: 0
+Static_Priority: 120
+Normal Priority: 120
+Parent Process: swapper/0
