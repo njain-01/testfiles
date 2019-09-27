@@ -29,6 +29,7 @@ fclose(fptr);
 	else
 	{
 		printf("Error occured while executing \n");
+		perror("Found error:");
 		printf("Error No.: %d\n",errno);
 	}
 
