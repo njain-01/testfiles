@@ -1,0 +1,11 @@
+{
+	"message":"success",
+	"attendance":[{
+		"className":"White-4-10th",
+		"totalLectures":0,
+		"present":0,
+		"sick":0,
+		"absent":0,
+		"late":0
+	}]
+}
